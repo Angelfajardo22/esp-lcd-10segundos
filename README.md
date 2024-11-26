@@ -1,1 +1,0 @@
-# esp-lcd-10segundos
